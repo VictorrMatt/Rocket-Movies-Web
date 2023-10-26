@@ -53,7 +53,7 @@ O front-end é desenvolvido em React.js e Styled-components, seguindo um design 
 
 *"Rocket Movies" é um projeto completo que consiste em uma aplicação de gerenciamento de informações de filmes, composta por um back-end desenvolvido em Node.js e um front-end construído em React.js e Styled-components. O projeto oferece recursos de autenticação, gerenciamento de usuários e filmes, segurança, e armazenamento de informações. "Rocket Movies" é uma solução eficaz para armazenar e gerenciar informações sobre filmes, e é resultado do curso Explorer da Rocketseat.*
 
-Para acessar o site do "Rocket Movies", você pode [clicar aqui]([URL_DO_SITE_NETLIFY]("https://rocketmoovies.netlify.app/")).
+Para acessar o site do "Rocket Movies", você pode [clicar aqui](https://rocketmoovies.netlify.app/).
 
 ## 🤝Desenvolvedores
 <table align="center">
