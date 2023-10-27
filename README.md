@@ -6,19 +6,6 @@
 
 "Rocket Movies" é um projeto desenvolvido após os módulos 08 e 09 do curso Explorer, oferecido pela plataforma de ensino Rocketseat. Este projeto consiste em duas partes complementares: o back-end e o front-end.
 
-## Back-End:
-
-O back-end é uma aplicação Node.js que permite aos usuários cadastrar informações sobre filmes. Os recursos do back-end incluem:
-
-- Criação, leitura, atualização e exclusão de informações de filmes.
-- Autenticação de usuários com geração e validação de tokens JWT (JSON Web Tokens) para garantir a segurança das rotas e dados sensíveis.
-- Gerenciamento de usuários, incluindo o cadastro e atualização de informações.
-- Utilização do Express para roteamento de requisições HTTP.
-- Uso do Knex para automatizar comandos DDL no banco de dados.
-- Suporte ao upload de imagens de perfil dos usuários com Multer.
-- Implementação de testes automatizados com o Jest.
-- Implantação do serviço na plataforma Render.
-
 ## Front-End:
 
 O front-end é desenvolvido em React.js e Styled-components, seguindo um design fornecido pelo Figma. As principais características do front-end incluem:
@@ -39,15 +26,6 @@ O front-end é desenvolvido em React.js e Styled-components, seguindo um design 
 - ``React Router``: Gerenciamento de rotas no aplicativo.
 - ``Styled-components``: Estilização modular e reutilizável.
 - ``Axios``: Biblioteca para fazer requisições à API.
-
-### Back-End (Tecnologias comuns em projetos Node.js):
-
-- ``Node.js``: Plataforma de execução JavaScript.
-- ``Express``: Framework Node.js para a criação de APIs RESTful.
-- ``Banco de Dados`` (SqLite): Armazenamento de informações de usuários e filmes.
-- ``JWT`` (JSON Web Tokens): Autenticação e segurança.
-- ``Multer``: Manipulação de uploads de imagens, como imagens de perfil.
-- ``Cors``: Habilitação de requisições entre origens (CORS) no servidor.
 
 ### 📝 Resumo
 
